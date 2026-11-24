@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse Analytics - PONAL",
+  "description": "Plataforma de Inteligencia Operativa, Reputación Digital y Analítica Estratégica para la Policía Nacional de Colombia (COEST)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
